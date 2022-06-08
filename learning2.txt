@@ -1,0 +1,21 @@
+//Now we have branches and  some git commands :
+-git log 
+-git status
+
+//to check branch -
+-git branch
+ 
+//to create a branch
+-git branch <Name of The branch to create>
+
+//to change a branch
+-git checkout <branch Name>
+
+//to merge the branch to default branch which is master :
+-git merge <name of the branch which you want to merge>
+
+//it opens up vim the text editor in terminal : you can write something on it as a message or:
+//use the commands 
+:Q! and enter
+
+

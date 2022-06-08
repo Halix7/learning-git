@@ -1,0 +1,21 @@
+This is for the learning purpose. 
+
+
+//local server added git 
+-git init-when we add it then we get .git folder which is hidden 
+-git add .
+-git commit -m "first commit"
+
+//we can use .gitignore file to ignore the files.
+//you can create a branch by:
+-git branch -M main
+
+//You can use readme to help others to interact with your project.
+-git add README.md
+
+
+//remote server from local server 
+//.git to github
+
+-git remote add  origin <url from git>
+-git push -u origin main
